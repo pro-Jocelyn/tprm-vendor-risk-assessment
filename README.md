@@ -1,4 +1,4 @@
-# Third-Party Risk Management Assessment: Cloud Lending Solutions
+# Third-Party Risk Management & Cloud Governance Assessment: Cloud Lending Solutions
 
 ## Project Overview
 
