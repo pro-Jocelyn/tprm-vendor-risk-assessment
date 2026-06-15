@@ -99,8 +99,12 @@ This project demonstrates the ability to:
 * Identify control gaps and assign severity
 * Document risk findings and remediation requirements
 * Apply cloud governance concepts to a SaaS vendor
-* Make a risk based vendor approval recommendation
-* Communicate risk in a business-friendly format
+* Apply cloud governance concepts to a SaaS vendor environment
+* Assess cloud-related risks such as cloud configuration reviews, privileged access, logging, monitoring, and shared responsibility
+* Incorporate cloud governance frameworks such as CSA Cloud Controls Matrix, NIST SP 800-53, and NIST CSF 2.0
+* Evaluate SaaS vendor risk in a vendor managed cloud environment
+* Make a risk based vendor approval recommendation using conditional approval requirements
+* Communicate third party risk, cloud governance concerns, and remediation actions in a business friendly format
 
 ## File Included
 
@@ -108,4 +112,4 @@ This project demonstrates the ability to:
 
 ## Note
 
-This project uses a fictional company, fictional vendor, and synthetic assessment responses for portfolio and learning purposes.
+This assessment is fictional and created to demonstrate TPRM and Cloud Governance skills in a professional portfolio.
