@@ -14,12 +14,13 @@ Because the vendor processes and stores sensitive customer financial information
 
 ## Vendor Being Assessed
 
-**Vendor Name:** Cloud Lending Solutions
-**Service Provided:** Cloud based loan processing platform
-**Cloud Service Model:** SaaS
-**Industry:** Financial Technology
-**Business Function Supported:** Consumer loan processing
-**Data Handled:** Customer PII, Social Security Numbers, income information, credit history, bank account information, and loan application documents
+* **Vendor Name:** Cloud Lending Solutions
+* **Service Provided:** Cloud based loan processing platform
+* **Cloud Service Model:** SaaS
+* **Industry:** Financial Technology
+* **Business Function Supported:** Consumer loan processing
+* **Data Handled:** Customer PII, Social Security Numbers, income information, credit history, bank account information, and loan application documents
+
 
 ## Frameworks and Concepts Used
 
